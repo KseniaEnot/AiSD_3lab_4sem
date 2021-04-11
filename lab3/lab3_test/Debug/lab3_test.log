@@ -1,0 +1,5 @@
+﻿  lab3_test.cpp
+C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\AiSD_3lab_4sem\lab3\lab3_test\lab3_test.cpp(84,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\AiSD_3lab_4sem\lab3\lab3_test\lab3_test.cpp(100,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\AiSD_3lab_4sem\lab3\lab3_test\lab3_test.cpp(134,25): warning C4018: <: несоответствие типов со знаком и без знака
+  lab3_test.vcxproj -> C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\AiSD_3lab_4sem\lab3\Debug\lab3_test.dll

@@ -1,0 +1,5 @@
+3 3
+St.Petersburg;Moscow;10;N/A;
+Moscow;Khabarovsk;5;N/A;
+St.Petersburg;Khabarovsk;11;3;
+St.Petersburg;Khabarovsk;

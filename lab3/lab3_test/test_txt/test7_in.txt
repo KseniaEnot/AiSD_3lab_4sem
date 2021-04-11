@@ -1,0 +1,8 @@
+5 6
+St.Petersburg;Moscow;10;N/A;
+St.Petersburg;Khabarovsk;2;50;
+Khabarovsk;Rostov-on-Don;20;20;
+Rostov-on-Don;Barnaul;10;N/A;
+Khabarovsk;Barnaul;38;N/A;
+St.Petersburg;Barnaul;40;N/A;
+St.Petersburg;Barnaul;
